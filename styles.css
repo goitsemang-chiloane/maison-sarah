@@ -1,25 +1,98 @@
-header, footer {color: black;   
+html {
+    font-size: 62.5%;
+}
+
+header, footer {
+    color: black;
+    text-align: center;   
+}
+
+footer {font-size: 1.4rem;
 }
 
 .brand {color: purple;
+    font-family: "Playfair Display", serif;
+    font-size: 1.6rem;
+    font-weight: 700;
 }
 
-.tagline {color: rgb(116, 113, 101);
+
+.tagline {
+    color: rgb(116, 113, 101);
+    font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .price {color:green;
 }
 
-nav a {color: black ;
+nav a {
+    color: black ;
     text-decoration: none;
 }
 
 body{
+    font-family: "Lato", sans-serif;
+    line-height: 1.6;
+    font-size: 1.6rem;
     background-color: #faf5ee ;
     color: #2f2a25 ;
 }
 
-h1, h2, h3 {color: #8a5a2e ;
+h1, h2, h3 {
+    color: #8a5a2e ;
     text-decoration: none;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+font-size: 3.6rem;
+letter-spacing: 0.05rem;}
+
+h2, h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 2.4rem;
+}
+
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
 
