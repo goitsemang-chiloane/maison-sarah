@@ -1,0 +1,25 @@
+header, footer {color: black;   
+}
+
+.brand {color: purple;
+}
+
+.tagline {color: rgb(116, 113, 101);
+}
+
+.price {color:green;
+}
+
+nav a {color: black ;
+    text-decoration: none;
+}
+
+body{
+    background-color: #faf5ee ;
+    color: #2f2a25 ;
+}
+
+h1, h2, h3 {color: #8a5a2e ;
+    text-decoration: none;
+}
+
